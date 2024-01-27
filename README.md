@@ -1,2 +1,5 @@
 # start
-WE up
+A simple Asteroid game
+
+## Description
+Just some small pewpew
